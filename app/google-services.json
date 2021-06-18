@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "594414316892",
-    "project_id": "global-tv-channels",
-    "storage_bucket": "global-tv-channels.appspot.com"
+    "project_number": "227916733705",
+    "project_id": "global-grocery-bdf02",
+    "storage_bucket": "global-grocery-bdf02.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:594414316892:android:90dd620ce3636abf5aa599",
+        "mobilesdk_app_id": "1:227916733705:android:132799133ae11b294107d8",
         "android_client_info": {
-          "package_name": "world.live.tv.channels.hd.global.free.online.guide.map"
+          "package_name": "grocery.food.delivery.shopping.world.online.offers.buy.deals.medicine.all"
         }
       },
       "oauth_client": [
         {
-          "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
+          "client_id": "227916733705-bsrmf8k9prrcbtnqm9p8uoilnr0gi6d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grocery.food.delivery.shopping.world.online.offers.buy.deals.medicine.all",
+            "certificate_hash": "0e9a81e81b75b4654c7c98887fb3b5760ae00d44"
+          }
+        },
+        {
+          "client_id": "227916733705-8g92n761rd1kdsa11n299gl89a1fiq5j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCANMG2wzSKUeM8AbqQ14Zj48VK5-cBQzI"
+          "current_key": "AIzaSyDyU0JXtr5F5JNp6iU1tZJWz8VqzZPwJf4"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "594414316892-r0kk23gkmio5m7142di73riqnjc6j49n.apps.googleusercontent.com",
+              "client_id": "227916733705-8g92n761rd1kdsa11n299gl89a1fiq5j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

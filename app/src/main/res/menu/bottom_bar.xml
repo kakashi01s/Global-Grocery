@@ -8,21 +8,22 @@
         app:exb_color="#FFF"
         android:iconTint="@color/black_50"
         android:orderInCategory="1"
-        android:title="Home" />
+        android:title="Grocery" />
     <item
         android:id="@+id/id_category"
         android:icon="@drawable/ic_category"
         android:orderInCategory="2"
         android:iconTint="@color/black_50"
         app:exb_color="#FFF"
-        android:title="Category" />
+        android:title="Food" />
     <item
         android:id="@+id/id_deals"
         android:icon="@drawable/ic_deal"
         android:orderInCategory="3"
         android:iconTint="@color/black_50"
         app:exb_color="#FFF"
-        android:title="Deals" />
+        android:title="Shop" />
+
 
     <item
         android:id="@+id/id_bookmark"

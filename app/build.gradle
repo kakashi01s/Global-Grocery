@@ -9,7 +9,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "world.live.tv.channels.hd.global.free.online.guide.map"
+        applicationId "grocery.food.delivery.shopping.world.online.offers.buy.deals.medicine.all"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 10
